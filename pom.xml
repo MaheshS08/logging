@@ -18,8 +18,8 @@
     <module>domain</module>
     <module>api</module>
     <module>core</module>
-    <module>console</module>
     <module>infrastructure</module>
+    <module>console</module>
     <module>examples</module>
     <module>tests</module>
   </modules>
