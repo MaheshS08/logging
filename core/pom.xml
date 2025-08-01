@@ -19,5 +19,17 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+      <dependency>
+          <groupId>com.github.mahesh.loggingframework.api</groupId>
+          <artifactId>api</artifactId>
+          <version>1.0-SNAPSHOT</version>
+          <scope>compile</scope>
+      </dependency>
+      <dependency>
+          <groupId>com.github.mahesh.loggingframework.domain</groupId>
+          <artifactId>domain</artifactId>
+          <version>1.0-SNAPSHOT</version>
+          <scope>compile</scope>
+      </dependency>
   </dependencies>
 </project>
